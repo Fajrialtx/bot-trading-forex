@@ -1,0 +1,9 @@
+# Mengabaikan file data berita agar tidak kotor di GitHub
+live_high_impact_news.csv
+
+# Mengabaikan folder cache Python
+__pycache__/
+*.pyc
+
+# Mengabaikan file rahasia (jika nanti Anda pakai file .env)
+.env
