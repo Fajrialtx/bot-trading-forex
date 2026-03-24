@@ -10,8 +10,8 @@ from datetime import datetime, timezone
 SYMBOL = "XAUUSDm"             
 TIMEFRAME = mt5.TIMEFRAME_M5     
 JUMLAH_CANDLE = 6000        # 3 Bulan ke belakang
-SL_PIPS = 50
-RR_RATIO = 3                  # TP otomatis 60 Pips
+SL_PIPS = 30
+RR_RATIO = 2               # TP otomatis 60 Pips
 MAKSIMAL_POSISI = 1
 
 # --- SETTING BREAKOUT ---
